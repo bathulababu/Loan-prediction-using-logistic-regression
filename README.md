@@ -13,7 +13,7 @@ The primary objective of this project is to develop a predictive model that can 
 
 ### Data
 
-The dataset used in this project (`loan_data.csv`) contains information about loan applicants. The key features include:
+The dataset used in this project (`train.csv`) contains information about loan applicants. The key features include:
 
 -   `Gender`: Gender of the applicant.
 -   `Married`: Marital status of the applicant.
@@ -68,12 +68,12 @@ To replicate or extend this project:
     pip install pandas numpy matplotlib seaborn scikit-learn scipy
     ```
 
-2.  Place the `loan_data.csv` file in the same directory as the notebook.
+2.  Place the `train.csv` file in the same directory as the notebook.
 3.  Run the Jupyter Notebook (`loan-prediction-project-detailed.ipynb`) to execute the code and reproduce the results.
 
 ### Files
 
--   `loan_data.csv`: The dataset used for loan prediction.
+-   `train.csv`: The dataset used for loan prediction.
 -   `loan-prediction-project-detailed.ipynb`: Jupyter Notebook containing the code and analysis.
 
 ### Results
@@ -82,8 +82,5 @@ The Logistic Regression model's performance is evaluated, and the key metrics ar
 
 ### Author
 
-\[Your Name]
+\[Naveen Babu Bathula]
 
-### License
-
-\[Choose a License]
